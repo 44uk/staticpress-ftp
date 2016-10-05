@@ -1,8 +1,8 @@
 <?php
 /*
 Plugin Name: StaticPress FTP
-Author: yukku0423
-Plugin URI: https://github.com/yukku0423/staticpress-ftp
+Author: 44uk
+Plugin URI: https://github.com/44uk/staticpress-ftp
 Description: StaticPress -> Server via FTP.
 Version: 0.0.1
 Author URI: http://44uk.net/
